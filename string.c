@@ -11,9 +11,9 @@ size_t my_strlen(const char *s)
 }
 char *my_strcpy(char *t, char *s)
 {
-	char *p=t;
+	char *u=t;
 	while(*t++ = *s++);
-	retur p;
+	retur u;
 }
 
 int main(void)
